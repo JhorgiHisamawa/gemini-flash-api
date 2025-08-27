@@ -21,8 +21,7 @@ PORT=<port>
 Run the server:
 
 ```bash
-npm run dev   # development (nodemon)
-npm start     # production
+node --watch app.js
 ```
 
 Base URL:
