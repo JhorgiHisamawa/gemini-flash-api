@@ -1,4 +1,3 @@
-````markdown
 # Gemini AI API
 
 Express backend for **Google Gemini API**.  
